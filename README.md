@@ -4,6 +4,8 @@ Cows can be killed with guns.
 If a gun is shot inside the area or a cow is killed,
 the cows will move faster for some time.
 
+http://youtu.be/la2ISAGjAtk
+
 Authors
 -------
 Developed in Pawn by:
